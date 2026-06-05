@@ -1,2 +1,2 @@
-select count(3)
+select count(*)
 from table2
